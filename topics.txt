@@ -1,0 +1,13 @@
+1. Primitive Data Types
+   - number, string, boolean, null, undefined
+
+2. Variable Declaration & Initialization
+   - creating variables
+   - assigning values
+   - reassigning values
+
+3. var / let / const
+   - differences
+   - best practices
+
+4. Alert, Confirm, Prompt
